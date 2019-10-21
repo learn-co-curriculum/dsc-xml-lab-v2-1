@@ -28,7 +28,7 @@ import xml.etree.ElementTree as ET
 
 
 ```python
-#Answer: 1
+#Your code here
 ```
 
 ### How many different types of tags are there within the entire XML file?
